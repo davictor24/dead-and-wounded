@@ -1,0 +1,22 @@
+{
+  "name": "dead-and-wounded-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Dead and Wounded game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davictor24/dead-and-wounded.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Victor Durojaiye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davictor24/dead-and-wounded/issues"
+  },
+  "homepage": "https://github.com/davictor24/dead-and-wounded#readme"
+}
